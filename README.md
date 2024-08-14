@@ -1,0 +1,2 @@
+# LearningLog
+Django course
